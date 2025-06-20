@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Contato:
-- Email: seuemail@example.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuusuario/)
-- Portfólio: [Seu Portfólio](https://seusite.com)
+- Email: gabrielhss1677@gmail.com
+- LinkedIn: [LinkedIn](www.linkedin.com/in/gabriel-henrique-0b03352ba)
+
