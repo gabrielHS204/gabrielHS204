@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá! Eu sou o Gabriel 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em C#, Python, e desenvolvimento Web  
+🎮 Interessado em programação de jogos com Unity  
+📚 Sempre aprendendo algo novo!
+
+---
+
+### 📌 Minhas habilidades:
+- Linguagens: C#, Python, Java, JavaScript
+- Web: HTML, CSS, React
+- Banco de Dados: MySQL, MongoDB
+- Ferramentas: Git, GitHub, VS Code, Unity
+
+---
+
+### 📈 Estatísticas GitHub:
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhss&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhss&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contato:
+- Email: seuemail@example.com
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuusuario/)
+- Portfólio: [Seu Portfólio](https://seusite.com)
